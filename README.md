@@ -24,7 +24,7 @@ npx affilinker scan
 
 ## Quick Start
 
-1. Create a config file (`affilinker.config.js`):
+1. Create a config file (`affilinker.config.mjs`):
 
 ```javascript
 export default {

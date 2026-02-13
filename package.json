@@ -1,6 +1,6 @@
 {
   "name": "affilinker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI tool for managing affiliate and outbound links in content files",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
